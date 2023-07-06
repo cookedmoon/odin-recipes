@@ -3,3 +3,8 @@ h3 {
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
 }
+
+h1 {
+    color: blue;
+    font-weight: bolder;
+}
